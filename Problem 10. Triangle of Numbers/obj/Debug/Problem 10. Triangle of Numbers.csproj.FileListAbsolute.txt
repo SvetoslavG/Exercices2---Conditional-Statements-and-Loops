@@ -1,0 +1,7 @@
+D:\Projects C#\Conditional Statements and Loops\Problem 10. Triangle of Numbers\bin\Debug\Problem_10.Triangle_of_Numbers.exe.config
+D:\Projects C#\Conditional Statements and Loops\Problem 10. Triangle of Numbers\bin\Debug\Problem_10.Triangle_of_Numbers.exe
+D:\Projects C#\Conditional Statements and Loops\Problem 10. Triangle of Numbers\bin\Debug\Problem_10.Triangle_of_Numbers.pdb
+D:\Projects C#\Conditional Statements and Loops\Problem 10. Triangle of Numbers\obj\Debug\Problem 10. Triangle of Numbers.csprojResolveAssemblyReference.cache
+D:\Projects C#\Conditional Statements and Loops\Problem 10. Triangle of Numbers\obj\Debug\Problem 10. Triangle of Numbers.csproj.CoreCompileInputs.cache
+D:\Projects C#\Conditional Statements and Loops\Problem 10. Triangle of Numbers\obj\Debug\Problem_10.Triangle_of_Numbers.exe
+D:\Projects C#\Conditional Statements and Loops\Problem 10. Triangle of Numbers\obj\Debug\Problem_10.Triangle_of_Numbers.pdb

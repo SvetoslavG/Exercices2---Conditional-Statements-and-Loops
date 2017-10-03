@@ -1,0 +1,7 @@
+D:\Projects C#\Conditional Statements and Loops\Problem 14.  Magic Letter\bin\Debug\Problem_14.Magic_Letter.exe.config
+D:\Projects C#\Conditional Statements and Loops\Problem 14.  Magic Letter\bin\Debug\Problem_14.Magic_Letter.exe
+D:\Projects C#\Conditional Statements and Loops\Problem 14.  Magic Letter\bin\Debug\Problem_14.Magic_Letter.pdb
+D:\Projects C#\Conditional Statements and Loops\Problem 14.  Magic Letter\obj\Debug\Problem 14.  Magic Letter.csprojResolveAssemblyReference.cache
+D:\Projects C#\Conditional Statements and Loops\Problem 14.  Magic Letter\obj\Debug\Problem 14.  Magic Letter.csproj.CoreCompileInputs.cache
+D:\Projects C#\Conditional Statements and Loops\Problem 14.  Magic Letter\obj\Debug\Problem_14.Magic_Letter.exe
+D:\Projects C#\Conditional Statements and Loops\Problem 14.  Magic Letter\obj\Debug\Problem_14.Magic_Letter.pdb
