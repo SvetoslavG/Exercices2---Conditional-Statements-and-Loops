@@ -1,0 +1,7 @@
+D:\Projects C#\Conditional Statements and Loops\Problem 3. Restaurant Discount\bin\Debug\Problem_3.Restaurant_Discount.exe.config
+D:\Projects C#\Conditional Statements and Loops\Problem 3. Restaurant Discount\bin\Debug\Problem_3.Restaurant_Discount.exe
+D:\Projects C#\Conditional Statements and Loops\Problem 3. Restaurant Discount\bin\Debug\Problem_3.Restaurant_Discount.pdb
+D:\Projects C#\Conditional Statements and Loops\Problem 3. Restaurant Discount\obj\Debug\Problem 3. Restaurant Discount.csprojResolveAssemblyReference.cache
+D:\Projects C#\Conditional Statements and Loops\Problem 3. Restaurant Discount\obj\Debug\Problem 3. Restaurant Discount.csproj.CoreCompileInputs.cache
+D:\Projects C#\Conditional Statements and Loops\Problem 3. Restaurant Discount\obj\Debug\Problem_3.Restaurant_Discount.exe
+D:\Projects C#\Conditional Statements and Loops\Problem 3. Restaurant Discount\obj\Debug\Problem_3.Restaurant_Discount.pdb

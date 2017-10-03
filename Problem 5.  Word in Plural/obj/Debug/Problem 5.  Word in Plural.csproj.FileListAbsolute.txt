@@ -1,0 +1,7 @@
+D:\Projects C#\Conditional Statements and Loops\Problem 5.  Word in Plural\bin\Debug\Problem_5.Word_in_Plural.exe.config
+D:\Projects C#\Conditional Statements and Loops\Problem 5.  Word in Plural\bin\Debug\Problem_5.Word_in_Plural.exe
+D:\Projects C#\Conditional Statements and Loops\Problem 5.  Word in Plural\bin\Debug\Problem_5.Word_in_Plural.pdb
+D:\Projects C#\Conditional Statements and Loops\Problem 5.  Word in Plural\obj\Debug\Problem 5.  Word in Plural.csprojResolveAssemblyReference.cache
+D:\Projects C#\Conditional Statements and Loops\Problem 5.  Word in Plural\obj\Debug\Problem 5.  Word in Plural.csproj.CoreCompileInputs.cache
+D:\Projects C#\Conditional Statements and Loops\Problem 5.  Word in Plural\obj\Debug\Problem_5.Word_in_Plural.exe
+D:\Projects C#\Conditional Statements and Loops\Problem 5.  Word in Plural\obj\Debug\Problem_5.Word_in_Plural.pdb
